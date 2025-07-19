@@ -1,21 +1,20 @@
 # 👋 Hi, I'm Emilija!
 
-Welcome to my GitHub profile! Here you'll find projects focused on cloud, web development, and data visualization. My main interests are building interactive web apps, serverless backends, and automating infrastructure with modern tools.
+Welcome to my GitHub! I'm passionate about building interactive applications and exploring various technologies.
 
-## 🌬️ Featured Project: WindAI
+## 🛠️ Technologies & Skills
 
-**WindAI** is a web application for visualizing wind data and testing Python Lambda backends via AWS API Gateway. It combines a modern frontend (React, Chart.js) with a serverless backend (AWS Lambda, API Gateway), all deployed as a static site on AWS S3 and managed with Terraform.
+- **Languages:** Python, JavaScript, C/C++
+- **Frontend:** React, React Native, HTML/CSS, jQuery
+- **Backend:** Node.js, Express, AWS Lambda
+- **Mobile:** React Native (QR scanners, navigation apps)
+- **Graphics:** OpenGL/GLUT programming
+- **Tools:** AWS, Terraform, Git
 
-### 🚀 What I Learned
+## 🚀 Featured Projects
 
-- Building interactive data visualizations with React and Chart.js
-- Creating serverless APIs using AWS Lambda and API Gateway
-- Automating cloud infrastructure with Terraform
-- Deploying static websites on AWS S3
-- Integrating frontend and backend securely in the cloud
-
-### 🛠️ Technologies I Use
-
-- **Frontend:** React, JavaScript, Chart.js, HTML, CSS
-- **Backend:** Python, AWS Lambda, API Gateway
-- **Cloud & DevOps:** AWS, Terraform
+- **WindAI**: Data visualization web app with React frontend and AWS Lambda backend
+- **Python Games**: Snake game, password manager, coffee machine simulator
+- **Mobile Apps**: React Native apps with QR scanning and authentication
+- **IoT Control Systems**: Node.js/Express web interfaces for hardware control
+- **Graphics Programming**: OpenGL applications with 3D rendering
