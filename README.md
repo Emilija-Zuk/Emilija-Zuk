@@ -2,6 +2,9 @@
 
 Welcome to my GitHub! I'm passionate about building interactive applications and exploring various technologies.
 
+Check my latest app, created in React: 
+https://www.wind-prediction.live/
+
 ## 🛠️ Technologies & Skills
 
 - **Languages:** Python, JavaScript, C/C++
